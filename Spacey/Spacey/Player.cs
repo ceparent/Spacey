@@ -85,6 +85,8 @@ namespace Spacey
             Mouse.SetPosition(Game.Window.ClientBounds.Width / 2, Game.Window.ClientBounds.Height / 2);
             originalMouse = new MouseState(Game.Window.ClientBounds.Width / 2,Game.Window.ClientBounds.Height / 2, 0, ButtonState.Released,ButtonState.Released,ButtonState.Released,ButtonState.Released,ButtonState.Released);
 
+
+            _gunShot = Game.Content.Load<SoundEffect>("Sounds/gunshot");
         }
         MouseState originalMouse;
 
@@ -230,6 +232,7 @@ namespace Spacey
             oldMs = ms;
         }
 
+        public SoundEffect _gunShot;
         private void Shoot(ICameraComponent camera, ITerrainComponent terrain)
         {
             Ray shotRay = new Ray(HeadPosition, camera.RotatedTarget);
@@ -247,7 +250,7 @@ namespace Spacey
                 float distance = result.Value.Intersects(shotRay).Value;
                 Decal decal = new Decal(HeadPosition + rot * (distance - 0.1f), direction, upDirection, Game.Content.Load<Texture2D>("Textures/bullet_hole"));
                 terrain.AddDecal(decal);
-
+                _gunShot.Play();
             }
 
 

@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>RootNode</Name>
     <Identity>
-      <SourceFilename>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\SpaceyContent\monkey.fbx</SourceFilename>
+      <SourceFilename>G:\Documents\GitHub\Spacey\Spacey\SpaceyContent\monkey.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>

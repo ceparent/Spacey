@@ -1,1 +1,2 @@
 g:\documents\visual studio 2012\Projects\Spacey\Spacey\SpaceyContent\obj\x86\Debug\SpaceyContent.contentprojResolveAssemblyReference.cache
+G:\Documents\GitHub\Spacey\Spacey\SpaceyContent\obj\x86\Debug\SpaceyContent.contentprojResolveAssemblyReference.cache

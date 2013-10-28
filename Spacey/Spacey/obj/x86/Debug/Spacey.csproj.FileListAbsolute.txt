@@ -19,3 +19,25 @@ G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Cont
 G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\arrow.xnb
 G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\HUD\crosshair.xnb
 G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\bullet_hole.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\xwing.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\sphere.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\monkey.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\DevFont.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\floor_concrete.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\wall_brick.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\arrow.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\HUD\crosshair.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\bullet_hole.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Ambient.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Diffuse.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Specular.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Textured.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Test.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\surface_0.xnb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Spacey.exe
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Spacey.pdb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\obj\x86\Debug\Spacey.csprojResolveAssemblyReference.cache
+G:\Documents\GitHub\Spacey\Spacey\Spacey\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Documents\GitHub\Spacey\Spacey\Spacey\obj\x86\Debug\Spacey.exe
+G:\Documents\GitHub\Spacey\Spacey\Spacey\obj\x86\Debug\Spacey.pdb
+G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Sounds\gunshot.xnb

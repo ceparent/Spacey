@@ -7,19 +7,12 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>g:\documents\visual studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\xwing.xnb</Output>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\xwing.xnb</Output>
       <Time>2013-10-22T21:02:54.3620464-04:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\xwing_0.xml</Key>
-        <Value>2013-10-22T21:07:05.7282655-04:00</Value>
+        <Value>2013-10-27T23:07:33.4199579-04:00</Value>
       </Dependency>
-    </Item>
-    <Item>
-      <Source>xwing.x</Source>
-      <Importer>XImporter</Importer>
-      <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>obj\x86\Debug\xwing_0.xml</Output>
-      <Time>2013-10-22T21:02:54.3620464-04:00</Time>
     </Item>
     <Item>
       <Source>sphere.fbx</Source>
@@ -27,13 +20,132 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\sphere.xnb</Output>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\sphere.xnb</Output>
       <Time>2013-10-23T21:28:57.1214535-04:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\sphere_0.xml</Key>
-        <Value>2013-10-23T21:29:51.5561741-04:00</Value>
+        <Value>2013-10-27T23:07:33.8709811-04:00</Value>
       </Dependency>
-      <Request>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\surface_0.xnb</Request>
+      <Request>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\surface_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>monkey.fbx</Source>
+      <Name>monkey</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\monkey.xnb</Output>
+      <Time>2013-10-23T21:48:01.2982203-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\monkey_0.xml</Key>
+        <Value>2013-10-27T23:07:34.2845687-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>DevFont.spritefont</Source>
+      <Name>DevFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\DevFont.xnb</Output>
+      <Time>2013-10-26T02:07:30.3450255-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\floor_concrete.jpg</Source>
+      <Name>Textures\floor_concrete</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\floor_concrete.xnb</Output>
+      <Time>2013-10-26T02:36:51.3654363-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wall_brick.jpg</Source>
+      <Name>Textures\wall_brick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\wall_brick.xnb</Output>
+      <Time>2013-10-26T02:36:51.3674293-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\arrow.png</Source>
+      <Name>Textures\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\arrow.xnb</Output>
+      <Time>2013-10-27T14:00:49.9219145-04:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\crosshair.png</Source>
+      <Name>HUD\crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\HUD\crosshair.xnb</Output>
+      <Time>2013-10-27T21:17:28.4467708-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bullet_hole.png</Source>
+      <Name>Textures\bullet_hole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\bullet_hole.xnb</Output>
+      <Time>2013-10-27T22:02:46.1559529-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Ambient.fx</Source>
+      <Name>Shaders\Ambient</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Ambient.xnb</Output>
+      <Time>2013-10-26T23:38:17.1316247-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Diffuse.fx</Source>
+      <Name>Shaders\Diffuse</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Diffuse.xnb</Output>
+      <Time>2013-10-27T00:01:44.815391-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Specular.fx</Source>
+      <Name>Shaders\Specular</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Specular.xnb</Output>
+      <Time>2013-10-27T00:30:42.5157683-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Textured.fx</Source>
+      <Name>Shaders\Textured</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Textured.xnb</Output>
+      <Time>2013-10-27T00:46:36.9950482-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Test.fx</Source>
+      <Name>Shaders\Test</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Test.xnb</Output>
+      <Time>2013-10-27T01:25:22.3013013-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xwing.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\xwing_0.xml</Output>
+      <Time>2013-10-22T21:02:54.3620464-04:00</Time>
     </Item>
     <Item>
       <Source>sphere.fbx</Source>
@@ -55,21 +167,8 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\surface_0.xnb</Output>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\surface_0.xnb</Output>
       <Time>2013-10-20T20:39:01.3451375-04:00</Time>
-    </Item>
-    <Item>
-      <Source>monkey.fbx</Source>
-      <Name>monkey</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\monkey.xnb</Output>
-      <Time>2013-10-23T21:48:01.2982203-04:00</Time>
-      <Dependency>
-        <Key>obj\x86\Debug\monkey_0.xml</Key>
-        <Value>2013-10-23T21:48:02.7099779-04:00</Value>
-      </Dependency>
     </Item>
     <Item>
       <Source>monkey.fbx</Source>
@@ -79,103 +178,13 @@
       <Time>2013-10-23T21:48:01.2982203-04:00</Time>
     </Item>
     <Item>
-      <Source>DevFont.spritefont</Source>
-      <Name>DevFont</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
+      <Source>Sounds\gunshot.wav</Source>
+      <Name>Sounds\gunshot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\DevFont.xnb</Output>
-      <Time>2013-10-26T02:07:30.3450255-04:00</Time>
-    </Item>
-    <Item>
-      <Source>Textures\floor_concrete.jpg</Source>
-      <Name>Textures\floor_concrete</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\floor_concrete.xnb</Output>
-      <Time>2013-10-26T02:36:51.3654363-04:00</Time>
-    </Item>
-    <Item>
-      <Source>Textures\wall_brick.jpg</Source>
-      <Name>Textures\wall_brick</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\wall_brick.xnb</Output>
-      <Time>2013-10-26T02:36:51.3674293-04:00</Time>
-    </Item>
-    <Item>
-      <Source>Shaders\Ambient.fx</Source>
-      <Name>Shaders\Ambient</Name>
-      <Importer>EffectImporter</Importer>
-      <Processor>EffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Ambient.xnb</Output>
-      <Time>2013-10-26T23:38:17.1316247-04:00</Time>
-    </Item>
-    <Item>
-      <Source>Shaders\Diffuse.fx</Source>
-      <Name>Shaders\Diffuse</Name>
-      <Importer>EffectImporter</Importer>
-      <Processor>EffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Diffuse.xnb</Output>
-      <Time>2013-10-27T00:01:44.815391-04:00</Time>
-    </Item>
-    <Item>
-      <Source>Shaders\Specular.fx</Source>
-      <Name>Shaders\Specular</Name>
-      <Importer>EffectImporter</Importer>
-      <Processor>EffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Specular.xnb</Output>
-      <Time>2013-10-27T00:30:42.5157683-04:00</Time>
-    </Item>
-    <Item>
-      <Source>Shaders\Textured.fx</Source>
-      <Name>Shaders\Textured</Name>
-      <Importer>EffectImporter</Importer>
-      <Processor>EffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Textured.xnb</Output>
-      <Time>2013-10-27T00:46:36.9950482-04:00</Time>
-    </Item>
-    <Item>
-      <Source>Shaders\Test.fx</Source>
-      <Name>Shaders\Test</Name>
-      <Importer>EffectImporter</Importer>
-      <Processor>EffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Shaders\Test.xnb</Output>
-      <Time>2013-10-27T01:25:22.3013013-04:00</Time>
-    </Item>
-    <Item>
-      <Source>Textures\arrow.png</Source>
-      <Name>Textures\arrow</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\arrow.xnb</Output>
-      <Time>2013-10-27T14:00:49.9219145-04:00</Time>
-    </Item>
-    <Item>
-      <Source>HUD\crosshair.png</Source>
-      <Name>HUD\crosshair</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\HUD\crosshair.xnb</Output>
-      <Time>2013-10-27T21:17:28.4467708-04:00</Time>
-    </Item>
-    <Item>
-      <Source>Textures\bullet_hole.png</Source>
-      <Name>Textures\bullet_hole</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Textures\bullet_hole.xnb</Output>
-      <Time>2013-10-27T22:02:46.1559529-04:00</Time>
+      <Output>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\Sounds\gunshot.xnb</Output>
+      <Time>2013-10-27T23:20:49.4281859-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -183,10 +192,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\SpaceyContent\</RootDirectory>
-      <LoggerRootDirectory>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\</LoggerRootDirectory>
-      <IntermediateDirectory>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\SpaceyContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\Spacey\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>G:\Documents\GitHub\Spacey\Spacey\SpaceyContent\</RootDirectory>
+      <LoggerRootDirectory>G:\Documents\GitHub\Spacey\Spacey\Spacey\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Documents\GitHub\Spacey\Spacey\SpaceyContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Documents\GitHub\Spacey\Spacey\Spacey\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

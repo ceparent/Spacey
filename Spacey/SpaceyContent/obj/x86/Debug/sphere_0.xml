@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>RootNode</Name>
     <Identity>
-      <SourceFilename>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\SpaceyContent\sphere.fbx</SourceFilename>
+      <SourceFilename>G:\Documents\GitHub\Spacey\Spacey\SpaceyContent\sphere.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -32,7 +32,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>Material__surface_png</Name>
       <Identity>
-        <SourceFilename>G:\Documents\Visual Studio 2012\Projects\Spacey\Spacey\SpaceyContent\sphere.fbx</SourceFilename>
+        <SourceFilename>G:\Documents\GitHub\Spacey\Spacey\SpaceyContent\sphere.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
@@ -52,6 +52,6 @@
     </Resource>
   </Resources>
   <ExternalReferences>
-    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\..\..\..\..\Images\surface.png</ExternalReference>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\..\..\..\Images\surface.png</ExternalReference>
   </ExternalReferences>
 </XnaContent>
